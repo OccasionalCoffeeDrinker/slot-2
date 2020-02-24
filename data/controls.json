@@ -1,0 +1,293 @@
+{
+    "symbols": {
+        "images": {
+            "1": "images/fruits/1.png",
+            "2": "images/fruits/2.png",
+            "3": "images/fruits/3.png",
+            "4": "images/fruits/4.png",
+            "5": "images/fruits/5.png",
+            "6": "images/fruits/6.png",
+            "7": "images/fruits/7.png",
+            "8": "images/fruits/8.png",
+            "9": "images/fruits/9.png"
+        }
+    },
+
+    "line_buttons": {
+        "1": {
+            "id": 1,
+            "node": null,
+            "position": {
+                "x": 25,
+                "y": 75
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines1.png",
+                "active": "images/line-btn/lines1_active.png"
+            }
+        },
+
+        "2": {
+            "id": 2,
+            "node": null,
+            "position": {
+                "x": 25,
+                "y": 162
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines2.png",
+                "active": "images/line-btn/lines2_active.png"
+            }
+        },
+
+        "3": {
+            "id": 3,
+            "node": null,
+            "position": {
+                "x": 25,
+                "y": 249
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines3.png",
+                "active": "images/line-btn/lines3_active.png"
+            }
+        },
+
+        "4": {
+            "id": 4,
+            "node": null,
+            "position": {
+                "x": 25,
+                "y": 336
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines4.png",
+                "active": "images/line-btn/lines4_active.png"
+            }
+        },
+
+        "5": {
+            "id": 5,
+            "node": null,
+            "position": {
+                "x": 25,
+                "y": 423
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines5.png",
+                "active": "images/line-btn/lines5_active.png"
+            }
+        },
+
+        "6": {
+            "id": 6,
+            "node": null,
+            "position": {
+                "x": 875,
+                "y": 75
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines6.png",
+                "active": "images/line-btn/lines6_active.png"
+            }
+        },
+
+        "7": {
+            "id": 7,
+            "node": null,
+            "position": {
+                "x": 875,
+                "y": 162
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines7.png",
+                "active": "images/line-btn/lines7_active.png"
+            }
+        },
+
+        "8": {
+            "id": 8,
+            "node": null,
+            "position": {
+                "x": 875,
+                "y": 249
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines8.png",
+                "active": "images/line-btn/lines8_active.png"
+            }
+        },
+
+        "9": {
+            "id": 9,
+            "node": null,
+            "position": {
+                "x": 875,
+                "y": 336
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines9.png",
+                "active": "images/line-btn/lines9_active.png"
+            }
+        },
+
+        "10": {
+            "id": 10,
+            "node": null,
+            "position": {
+                "x": 875,
+                "y": 423
+            },
+
+            "images": {
+                "no_active": "images/line-btn/lines10.png",
+                "active": "images/line-btn/lines10_active.png"
+            }
+        }
+    },
+
+    "coins_buttons": {
+        "10": {
+            "id": 10,
+            "node": null,
+            "position": {
+                "x": 275,
+                "y": 550
+            },
+
+            "images": {
+                "no_active": "images/coin-btn/bet10.png",
+                "active": "images/coin-btn/bet10_active.png"
+            }
+        },
+
+        "20": {
+            "id": 20,
+            "node": null,
+            "position": {
+                "x": 350,
+                "y": 550
+            },
+
+            "images": {
+                "no_active": "images/coin-btn/bet20.png",
+                "active": "images/coin-btn/bet20_active.png"
+            }
+        },
+
+        "50": {
+            "id": 50,
+            "node": null,
+            "position": {
+                "x": 425,
+                "y": 550
+            },
+
+            "images": {
+                "no_active": "images/coin-btn/bet50.png",
+                "active": "images/coin-btn/bet50_active.png"
+            }
+        },
+
+        "100": {
+            "id": 100,
+            "node": null,
+            "position": {
+                "x": 500,
+                "y": 550
+            },
+
+            "images": {
+                "no_active": "images/coin-btn/bet100.png",
+                "active": "images/coin-btn/bet100_active.png"
+            }
+        },
+
+        "250": {
+            "id": 250,
+            "node": null,
+            "position": {
+                "x": 575,
+                "y": 550
+            },
+
+            "images": {
+                "no_active": "images/coin-btn/bet250.png",
+                "active": "images/coin-btn/bet250_active.png"
+            }
+        }
+    },
+    "lines": {
+        "1": {
+            "image": "images/line-mark/draw1.png"
+        },
+        "2": {
+            "image": "images/line-mark/draw2.png"
+        },
+        "3": {
+            "image": "images/line-mark/draw3.png"
+        },
+        "4": {
+            "image": "images/line-mark/draw4.png"
+        },
+        "5": {
+            "image": "images/line-mark/draw5.png"
+        },
+        "6": {
+            "image": "images/line-mark/draw6.png"
+        },
+        "7": {
+            "image": "images/line-mark/draw7.png"
+        },
+        "8": {
+            "image": "images/line-mark/draw8.png"
+        },
+        "9": {
+            "image": "images/line-mark/draw9.png"
+        },
+        "10": {
+            "image": "images/line-mark/draw10.png"
+        }
+    },
+
+    "images": {
+        "credit_box": "images/credit_box.png",
+        "empty_white_box": "images/betbox.png",
+        "play": "images/play.png",
+        "play_hover": "images/play_hover.png",
+        "controls_background": "images/frame.png",
+        "green_bg": "images/green_bg.png",
+        "exit": "images/exit.png",
+        "exit_hover": "images/exit_hover.png"
+    },
+
+    "spinSpeed": 100,
+
+    "canvas": {
+        "width": 950,
+        "height": 625
+    },
+
+    "gameWindow": {
+        "width": 750,
+        "height": 450
+    },
+
+    "symbol": {
+        "width": 150,
+        "height": 150
+    },
+
+    "credit": 1000,
+    "max_credit": 9999999,
+    "min_credit": 10
+}
